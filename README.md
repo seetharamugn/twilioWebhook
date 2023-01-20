@@ -50,3 +50,7 @@ if (Integer.parseInt(numMediastr)>0)
 
 If this condition is satisfied the incoming message is MMS, otherwise, its SMS, once statement work we have to go for adding the message to the email section we need more parameters like to, from, subject, and body attach files so we are going to create an email section. Use the add job email queue for scheduling the email it will schedule the email to send to the preferred email 
 
+
+**more info visit the website to understand**
+    
+    https://www.twilio.com/docs/usage/webhooks/sms-webhooks
